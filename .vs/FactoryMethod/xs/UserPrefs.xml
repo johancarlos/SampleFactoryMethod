@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{76D3B099-A935-4D76-A62C-BD4D5DF747C5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod/Summary.md">
+    <Files>
+      <File FileName="FactoryMethod/Program.cs" Line="17" Column="48" />
+      <File FileName="FactoryMethod/IMovie.cs" Line="6" Column="30" />
+      <File FileName="FactoryMethod/MovieFactory.cs" Line="9" Column="1" />
+      <File FileName="FactoryMethod/ConcreteMovieFactory.cs" Line="22" Column="2" />
+      <File FileName="FactoryMethod/Comedy.cs" Line="8" Column="115" />
+      <File FileName="FactoryMethod/Action.cs" Line="8" Column="13" />
+      <File FileName="FactoryMethod/ScienceFiction.cs" Line="12" Column="1" />
+      <File FileName="FactoryMethod/Summary.md" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod" expanded="True">
+            <Node name="FactoryMethod" expanded="True">
+              <Node name="Summary.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
